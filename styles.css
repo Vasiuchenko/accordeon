@@ -12,10 +12,7 @@ body {
   color: #000;
   border-radius: 3px;
   display:flex;
-}
-
-.container.refinements {
-  text-align: right;
+  flex-wrap: wrap;
 }
 
 .plp {
